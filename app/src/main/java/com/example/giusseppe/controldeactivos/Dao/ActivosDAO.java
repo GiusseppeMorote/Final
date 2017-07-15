@@ -3,6 +3,7 @@ package com.example.giusseppe.controldeactivos.Dao;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.provider.ContactsContract;
 import android.widget.Toast;
 
 import com.example.giusseppe.controldeactivos.Bean.ActivosBean;
